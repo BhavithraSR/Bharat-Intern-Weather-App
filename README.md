@@ -1,7 +1,5 @@
 # weatherapp
-## Date: 27-07-2023
-### Sadiq
---
+
 ### Functions
 A simple weather application that displays weather information
 ### Tech-Stack
@@ -21,6 +19,4 @@ https://api.openweathermap.org/data/2.5/
 └── main.js
 
 ``` 
-### Live on
-http://weatherapp.sadiqmagbul.host20.uk/
 
